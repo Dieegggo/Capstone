@@ -1,18 +1,25 @@
-# RivalMatch — Entrega documental de Fase 2
+# RivalMatch — Fase 2: desarrollo del Proyecto APT
 
-Este paquete se redactó a partir de las plantillas de Fase 2 del repositorio `Dieegggo/Capstone` y del planteamiento inicial de RivalMatch. No reemplaza evidencias auténticas del período ni avala pruebas aún no ejecutadas.
+**Corte documental:** 16 de noviembre de 2026. Esta carpeta reúne las evidencias académicas propias de RivalMatch para la Fase 2. Las plantillas originales del docente se retiraron del árbol actual; permanecen recuperables en el historial de Git.
 
-## Estructura
-- `Evidencias Grupales`: guía 2.4 de avance, borrador 2.6 de informe final.
-- `Evidencias Individuales`: nueve documentos (2.1, 2.2, 2.3 por cada integrante).
-- `Evidencias de documentación`: UML, modelo de datos, requisitos no funcionales, tablas de seguimiento, matriz de pruebas y revisión de hitos.
-- `Evidencias de sistema`: descripción de aplicación, base de datos y Docker en etapa de avance.
+## Entregables
 
-## Nota importante para GitHub
-Los nombres oficiales de pautas y planillas de evaluación del docente no se sustituyen ni se califican. Este paquete incluye evidencias completadas; no es necesario sobrescribir los instrumentos del docente. Al subirlo, revisar duplicados y preservar Fase 1 y Fase 3.
+- **Evidencias Grupales:** guía `2.4_GuiaEstudiante_Fase2_Desarrollo_RivalMatch.docx` e informe `2.6_Informe_Final_Fase2_RivalMatch.docx`.
+- **Evidencias Individuales:** nueve documentos, tres por integrante (Mario Doveris, Adrián Heredia y Diego Torres): diario 2.1, autoevaluación 2.2 y antecedentes formativos 2.3. Los instrumentos docentes no se consideran calificados por estos archivos.
+- **Evidencias de documentación:** diagramas UML, modelo de datos, requisitos no funcionales, Product Backlog, Sprint Backlog, retrospectivas y matriz de pruebas.
+- **Evidencias de sistema:** notas técnicas de aplicación, base de datos y Docker. No son sustituto del código ni acreditan un despliegue realizado.
 
-## Revisión requerida
-- Confirmar roles/reparto de responsabilidades reales.
-- Las reflexiones individuales son borradores y requieren validación de cada integrante.
-- Cambiar el estado «Pendiente» de casos de prueba solo cuando existan capturas/registros reales.
-- Confirmar el esquema Prisma antes de tratar el modelo conceptual como implementación física.
+## Criterio metodológico
+
+El proyecto se documenta bajo **metodología en cascada**. Los nombres de plantillas «Backlog» y «Retrospectivas» corresponden a formatos de seguimiento utilizados académicamente; no implican que se haya seguido formalmente Scrum.
+
+## Estado de las evidencias
+
+El informe 2.6 es la versión final **documental** de esta fase, con límites de verificación identificados. La presencia de un caso en `Pruebas.xlsx` no demuestra que su ejecución haya sido satisfactoria. Para dar por validado un caso, adjuntar responsable, versión, fecha, pasos, resultado esperado, resultado obtenido y captura o registro real.
+
+## Comprobaciones de los integrantes antes de la entrega
+
+- Cada estudiante debe leer y confirmar sus propias reflexiones y autoevaluaciones; ningún tercero puede validarlas por él.
+- Confirmar asignación real de tareas y esquema técnico contra el código fuente del periodo.
+- No marcar pruebas como aprobadas sin evidencia reproducible.
+- No registrar notas docentes o presentación aprobada mientras no exista resultado oficial.

@@ -1,26 +1,27 @@
 # RivalMatch — Fase 3: presentación del Proyecto APT
 
-**Estado:** documentación y presentación preparadas para revisión y ensayo (16/11/2026). No equivale a una evaluación aprobada ni a una entrega ya realizada.
+**Estado al 16/11/2026:** entregables documentales preparados para revisión y ensayo. La carpeta quedó sin plantillas originales; estos documentos no acreditan todavía una defensa ni una evaluación aprobadas.
 
-## Evidencias Grupales
+## Evidencias grupales
 
-- `Presentacion_Final_RivalMatch_Fase3.pptx`: 16 diapositivas con el índice original de ocho secciones y capturas reales del prototipo.
-- `Guion_Exposicion_20min_RivalMatch_Fase3.docx`: distribución propuesta de intervenciones y cuatro apartados orales en inglés exigidos por la pauta (problemática, solución, caso de uso, arquitectura).
+- `Presentacion_Final_RivalMatch_Fase3.pptx`: presentación de 16 diapositivas, con las ocho secciones del índice acordado.
+- `Guion_Exposicion_20min_RivalMatch_Fase3.docx`: propuesta de distribución de tiempo entre los integrantes e intervenciones orales en inglés sobre problemática, solución, caso de uso y arquitectura.
 
-## Evidencias Individuales
+## Evidencias individuales
 
-Se incluyen dos documentos por integrante (seis en total): diario de reflexión `3.1` y autoevaluación de presentación `3.2` para Mario, Adrián y Diego. Las respuestas personales son borradores que cada integrante debe confirmar. Las calificaciones y niveles de autoevaluación no fueron inventados.
+Seis documentos en total: diario 3.1 y autoevaluación 3.2 de Mario Doveris, Adrián Heredia y Diego Torres. Son respuestas personales revisables; cada estudiante debe confirmar su redacción y desempeño. No se han asignado calificaciones.
 
-## Evidencias Proyecto
+## Evidencias del proyecto
 
-Esta carpeta contiene un índice de la evidencia y una lista de verificación previa a la defensa. La presentación canónica está en `../Evidencias Grupales/`; se evita guardar copias redundantes.
+`Evidencias Proyecto/README_Evidencias_Proyecto.md` enlaza la presentación original única (guardada en Evidencias Grupales), y `Checklist_Entrega_Fase3.md` registra los pendientes para la defensa. No se duplica el archivo PPTX.
 
-## Antes de cerrar Fase 3
+## Validación previa a la defensa
 
-1. Ensayar la presentación grupal en 20 minutos.
-2. Practicar oralmente en inglés: problemática, solución, caso de uso y arquitectura.
-3. Adjuntar prueba con dos cuentas para cierre, confirmación bilateral del resultado y actualización de ranking; no afirmar que está verificada hasta tener evidencia.
-4. Verificar capturas, diagramas, conexión al backend y reproducibilidad del prototipo.
-5. Confirmar la entrega y comentarios de la comisión.
+1. Los tres integrantes confirman personalmente sus documentos y responsabilidades.
+2. Ensayar la exposición grupal de 20 minutos y las secciones en inglés.
+3. Reproducir y documentar el flujo con dos cuentas, confirmación bilateral del resultado y ranking actualizado.
+4. Verificar el arranque del entorno móvil/API/BD y adjuntar capturas/logs fechados sin exponer datos personales.
+5. Comprobar que el enlace al repositorio del código sea accesible al docente.
+6. Registrar la presentación ante la comisión y su retroalimentación cuando ocurran.
 
-Las plantillas y la pauta del docente existentes en GitHub no se eliminan con este paquete. El repositorio académico es diferente del repositorio del código fuente.
+El repositorio `Dieegggo/Capstone` es académico y distinto del repositorio de código fuente citado en el README principal.
