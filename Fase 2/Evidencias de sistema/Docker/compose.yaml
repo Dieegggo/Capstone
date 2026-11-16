@@ -1,4 +1,0 @@
-# EJEMPLO ORIENTATIVO: completar servicios, puertos y volúmenes según el proyecto
-services:
-  app:
-    build: .
